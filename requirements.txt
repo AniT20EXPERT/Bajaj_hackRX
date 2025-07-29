@@ -1,19 +1,13 @@
 fastapi==0.116.1
-uvicorn==0.35.0
-requests==2.32.4
-python-dotenv==1.1.1
-
-# LLM + Embeddings
-sentence-transformers==5.0.0
-nltk==3.9.1
-transformers==4.53.3
-torch==2.7.1
-
-# Vector DB
-pinecone==7.3.0
-
-# PDF Text Extraction
-PyMuPDF==1.26.3
-
-# Groq API
+fitz==0.0.1.dev2
 groq==0.30.0
+langchain==0.3.27
+nltk==3.8.1
+nltk==3.9.1
+numpy==1.24.3
+pinecone==7.3.0
+pydantic==2.11.7
+python-dotenv==1.1.1
+Requests==2.32.4
+sentence_transformers==5.0.0
+uvicorn==0.35.0
